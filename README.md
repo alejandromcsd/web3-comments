@@ -6,13 +6,13 @@ I've built a fullstack decentralized (Web3 - Solidity Smart Contracts) forum tha
 
 ### Ingredients
 
-🚀 React 17
-🌎 React-Query - Async state management
-🪝 wagmi - React Hooks for Ethereum
-🎨 Chakra UI - Component Library
-👷🏽‍♂️ Hardhat - Ethereum development environment
-🧪 Wafffle - Smart contract testing framework
-💰 Ethers - Ethereum wallet implementation
+- 🚀 React 17
+- 🌎 React-Query - Async state management
+- 🪝 wagmi - React Hooks for Ethereum
+- 🎨 Chakra UI - Component Library
+- 👷🏽‍♂️ Hardhat - Ethereum development environment
+- 🧪 Wafffle - Smart contract testing framework
+- 💰 Ethers - Ethereum wallet implementation
 
 ### Overview
 
