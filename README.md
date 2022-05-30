@@ -2,8 +2,7 @@
 
 ### Project Details
 
-I've built a fullstack decentralized forum that can be used in any dapp.
-It's based in the tutorial -> https://www.pointer.gg/tutorials/create-a-web3-forum-with-polygon/1cb8f005-08f4-48a2-9d82-cd963e16f7f1
+I've built a fullstack decentralized (Web3 - Solidity Smart Contracts) forum that can be used in any dapp. Idea is based on this [guide](https://www.pointer.gg/tutorials/create-a-web3-forum-with-polygon/1cb8f005-08f4-48a2-9d82-cd963e16f7f1)
 
 ### Ingredients
 
