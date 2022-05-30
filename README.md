@@ -5,6 +5,16 @@
 I've built a fullstack decentralized forum that can be used in any dapp.
 It's based in the tutorial -> https://www.pointer.gg/tutorials/create-a-web3-forum-with-polygon/1cb8f005-08f4-48a2-9d82-cd963e16f7f1
 
+### Ingredients
+
+🚀 React 17
+🌎 React-Query - Async state management
+🪝 wagmi - React Hooks for Ethereum
+🎨 Chakra UI - Component Library
+👷🏽‍♂️ Hardhat - Ethereum development environment
+🧪 Wafffle - Smart contract testing framework
+💰 Ethers - Ethereum wallet implementation
+
 ### Overview
 
 Deployable smart contract and an accompanying React component to add comment threads to your dapps.
